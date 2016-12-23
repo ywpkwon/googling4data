@@ -21,10 +21,6 @@ To run, you'll need `key.json` which this repository does not include. The forma
 I referred http://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search. If there can be more simple or easier way to do this, please lighten me up.
 
 ### example
-<<<<<<< HEAD
-** This is still during construction.
-=======
 ** This is still during construction.
 
 #### If this helps, please add a star for me ;)
->>>>>>> 7abcf45... removed key
