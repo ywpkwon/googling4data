@@ -5,10 +5,6 @@ import re
 import json
 import pprint
 
-# my_api_key = "AIzaSyAuTBaPt4sRBOj1Ehkn5LJ4pYM_EtKEyD4"
-# my_cse_id = "002953589285845417280:hthneeb_kww"
-
-
 def visible(element):
     if element.parent.name in ['style', 'script', '[document]', 'head', 'title']: return False
     text = str(element.encode('utf-8')).strip()

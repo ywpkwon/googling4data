@@ -23,4 +23,4 @@ I referred http://stackoverflow.com/questions/37083058/programmatically-searchin
 ### example
 ** This is still during construction.
 
-#### If this helps, please vote a star for me ;)
+#### If this helps, please add a star for me ;)
