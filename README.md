@@ -8,6 +8,7 @@ For a given string (e.g., "apple"), these codes (1) google the string, (2) retri
 
 ## How to use
 
+### prerequisite
 To run, you'll need `key.json` which this repository does not include. The format should be as below, and the values should be yours. They are required by Google.
 
 ````
@@ -18,3 +19,6 @@ To run, you'll need `key.json` which this repository does not include. The forma
 ````
 
 I referred http://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search. If there can be more simple or easier way to do this, please lighten me up.
+
+### example
+** This is still during construction.
