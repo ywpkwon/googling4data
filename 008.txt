@@ -1,0 +1,61 @@
+ Fullpage Interstitial   Site Header / Nav   header-logo  Menu Topics Biomedicine Business Computing Energy Mobile Robotics 10 Breakthrough Technologies 35 Innovators Under 35 50 Smartest Companies Views Views from the Marketplace Top Stories Magazine Events More Events Special Publications MIT News Magazine Help/Support  Redundent account menu implementation for devices  Log in / Register  primary nav  Subscribe  tertiary nav   Secondary Navbar  Log in / Register Search  secondary nav  Click search or press enter  header-navbar   .navbar   Leaderboard   Ribbon   Main   Article Topper: Standard (text only topper)  Robotics Prepare to be Underwhelmed by 2021’s Autonomous Cars Ford, Uber, and BMW promise fully self-driving cars in five years—but they will probably only work in very limited areas. 
+					by   Article Topper: Byline  Tom Simonite August 23, 2016 BMW, Ford, and Uber have all recently said they plan to have “fully autonomous” cars ready to drive themselves on the road in 2021 (see “ 2021 May Be the Year of the Fully Autonomous Car ”). Ford says its fleet of vehicles will lack steering wheels and offer a robotic taxi service. But don’t expect to toss out your driver's license in 2021. Five years isn’t long enough to create vehicles good enough at driving to roam extensively without human input, say researchers working on autonomous cars. They predict that Ford and others will meet their targets by creating small fleets of vehicles limited to small, controlled areas. A Volvo SUV with automated driving technology developed by Uber. “Probably what Ford would do to meet their 2021 milestone is have something that provides low-speed taxi service limited to certain roads—and don’t expect it to come in the rain,” says  Steven Shladover  of the University of California, Berkeley, who has worked on automated driving for more than 20 years. Shladover says many media outlets and members of the public are overinterpreting statements from Ford and other companies that are less specific than they appear. The dream of being able to have a car drive you wherever you want to go in the city, country, or continent remains distant, he says. “It ain’t going to be five years,” says Shladover. “The hype has gotten totally out of sync with reality.” Alain Kornhauser , a Princeton professor and director of the university’s transportation program, also expects 2021’s vehicles to be very restricted. “By then we may be able to define [a] ‘fenced’ region of space where we can in fact let cars out there without a driver,” he says. “The challenge will be making that fenced-in area large enough so that it provides a valuable service.” The chief technologist on Google parent Alphabet’s self-driving car project said at  MIT Technology Review ’s EmTech Digital conference in May  that he expected the vehicles to come to certain urban pockets first. He didn’t elaborate on how limited they would be, or how quickly it would be possible to expand their range. 
+			By use of this code snippet, I agree to the Brightcove Publisher T and C
+			found at https://accounts.brightcove.com/en/terms-and-conditions/.
+			 One of the main reasons that Shladover and Kornhauser believe 2021’s robotic fleets will be more limited than some people expect is the difficulty that software has understanding the world. Computers can react to things much faster than a human, and self-driving cars’ sensors can look in many directions at once. But software is at a significant disadvantage when it comes to interpreting what it “sees” to identify and understand objects and situations, such as a traffic cop gesturing in the road. Nor is software very good at planning how to deal with out-of-the-ordinary situations. Jeffrey Miller , an associate professor at the University of Southern California, says figuring out how sensors limit the situations a vehicle can reliably handle on its own is one of the most crucial challenges for companies working on autonomous driving. The crash earlier this year that  killed a driver  using a Tesla sedan’s Autopilot feature underlines the problem, says Miller. Tesla said the car’s sensors  did not detect  the side of the tractor trailer it ran into. Because the real world and its roads are a complicated place, it will take a lot of testing to be sure that automated driving technology has run up against all the scenarios it needs to handle to be reliable, says Miller. Weather is also a problem for automated cars. Rain, snow, and hail challenge the laser-based lidar sensors that many prototypes rely on to track their surroundings in 3-D, for example. 
+			Gain the insight you need on digital technologies at EmTech Digital. From Our Advertisers 
+						
+							Sponsored by
+						
+						 Google for Work Survey: Machine Learning Trends, Challenges, and Opportunities 
+						
+							In partnership with
+						
+						 Dynatrace Emerging Trend Analysis: What is Digital Performance Management? 
+						
+							Sponsored by
+						
+						 Lenovo Trend Roundup: Data Storage and the Cloud Tagged Ford , 
+					
+					 Google , 
+					
+					 Alphabet , 
+					
+					 Uber , 
+					
+					 Tesla , 
+					
+					 autonomous cars , 
+					
+					 self-driving cars , 
+					
+					 EmTech 2016 , 
+					
+					 MIT Technology Review Events , 
+					
+					 EmTech Digital 2017 , 
+					
+					 driverless car , 
+					
+					 Tesla Autopilot , 
+					
+					 mobile robotics Credit Image courtesy of Volvo  // end .article-footer__terms  Tom Simonite San Francisco Bureau Chief I’m  MIT Technology Review ’s San Francisco bureau chief and enjoy a diverse diet of algorithms, Internet, and human-computer interaction with chips on the side. I lead our coverage of new ideas from Silicon Valley, whether they spring from tech …  More  giants, new startups, or academic labs.  My journey to the West Coast started in a small English market town and took in the University of Cambridge, Imperial College London, and five years writing and editing technology news coverage at  New Scientist  magazine.  // end .article-footer__author   // end .article-footer  Subscribe to Continue Reading Uh oh–you've read all five of your free articles for this month. Become an Insider for unlimited access to online stories for less than $2 per month. Insider Online Only $19.95/yr  US PRICE Subscribe See international, alumni and other pricing options Already an Insider? Log in. Have a magazine subscription? Activate your Insider account.  Read More  Robotics Smart machines are beginning to speak to us and act on their own. This Laser-Toting Tentacle Carves Up Old Nuclear Hardware A remotely controlled writhing robotic arm is being used to cut through thick metal in hostile environments. by 
+	
+		
+			Jamie Condliffe
+		
+	
+ The Best of the Physics arXiv (week ending November 26, 2016) This week’s most thought-provoking papers from the Physics arXiv. by 
+	
+		
+			Emerging Technology from the arXiv
+		
+	
+ How to Fix Silicon Valley’s Sexist Algorithms Computers are inheriting gender bias implanted in language data sets—and not everyone thinks we should correct it. by 
+	
+		
+			Will Knight
+		
+	
+ More from Robotics  Slider   Article Footer  The Download  What's important in technology and innovation, delivered to you every day. Follow us Twitter Facebook RSS    newsletter bar  The mission of MIT Technology Review is to equip its audiences with the intelligence to understand a world shaped by technology. Browse International Editions  footer-main header  Company About Us Careers Advertise with Us Reprints and Permissions Your Account Log In / Create Account Newsletters Manage Account Manage Subscription Customer Support Help/FAQs Contact Us Feedback Sitemap More Events MIT Enterprise Forum MIT News Policies Ethics Statement Terms of Service Privacy Commenting Guidelines  footer-main-navbar  MIT Technology Review © 2016 v.|e iπ |  footer wrapper   Reading Meter  You've read  of  
+				free articles  this month. Subscribe Become an Insider  or  Sign in  for unlimited access  to online articles .  Google Tag Manager   AddThis Config 

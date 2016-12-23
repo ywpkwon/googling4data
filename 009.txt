@@ -1,0 +1,80 @@
+News Conference TNW NYC Index TQ Deals Answers News Conference TNW NYC Index TQ Deals Answers Contact Jobs Contribute Advertise Team About Apps Gear Tech Creative Money Insights Launch World Distract Offers Launch Distract World Have a cookie 
+                            TNW uses cookies to personalise content and ads to
+                            make our site easier for you to use.
+                            We do also share that information with third parties for
+                            advertising & analytics.
+                         Got it! 
+                            or  More info 
+                <li><a href="#"><i class="icon icon--user--dark"></i></a>
+                 <li><a href="http://thenextweb.com/notifications" title="Receive push alerts" target="_blank"  data-event-category="Top" data-event-action="Social" data-event-label="Push alerts" data-event-non-interaction="1"><i class="icon icon--push--dark"></i></a> Sections Apps Gear Tech Creative Money Insights Launch World Distract Offers About TNW About Team Advertise Contribute Jobs Contact TNW Sites News Conference TNW NYC Index TQ Deals Answers Cyberspace Culture Google’s autonomous car just passed 2 million miles 
+            by  Bryan Clark 
+            —  
+                        in  Google 
+        Credit:
+                     Google 430 shares Google recently reached a huge milestone by logging its two millionth autonomous mile. For context, two million miles is the equivalent of 300 years of human driving, not exactly insignificant. Driving the first million miles took Google six years. The next million, just 16 months. As the regulatory environment continues to warm to the idea of putting driverless cars on city streets and highways, the miles are going to accumulate even faster. That’s a good thing for autonomous car-watchers everywhere. The first 90 percent of driving, according to self-driving software lead Dmitri Dolgov, is easy to master. It’s the next 10 percent that’s going to give car companies fits. It’s only through logging the miles that Google can begin to chip away during its final push. In a  Medium post  announcing the news today, self-driving software lead Dmitri Dolgov had this to say: …it’s relatively easy to master the first 90% of driving where you’re traveling on freeways, navigating light city-street traffic, or making your way through simple intersections. But to create a truly self-driving car that can do all the driving, we knew we’d need experience in more challenging and interesting situations. That’s why we now spend the vast majority of our time on complex city streets, rather than simpler environments like highways. It takes much more time to accumulate miles if you’re focused on suburban roads; still, we’re gaining experience at a rapid pace As we continue to progress toward complete autonomy, it’s really just a race to log miles. It’s difficult to program behavior into a car for scenarios that are rarely seen. The more miles logged, the better the team can prepare for these rare situations. It’s these odd scenarios that give Google’s current technology the most problems. The  only at-fault accident for Google’s AI  came from trying to decipher the behavior of a passing bus. Both the passenger (a Google employee) and the car assumed the bus would slow or stop — and the bus driver presumed the car was going to stay put on the right side of the road. These misunderstandings in interpreting the complex nature of human behavior is what autonomous machines are going to struggle with. This one, fortunately, was a minor fender-bender. Until the roads are completely autonomous, even the accidents caused by the Google car are going to be human-related as it tries to interpret and analyze the patterns of drivers around it. We could solve the problem once and for all by banning distracted and unpredictable bags of flesh from taking the wheel. But, I don’t think we’re there yet. Two million miles closer to a fully autonomous future on Medium Read next: 
+        T-Mobile CEO wants to send you to Mars     Google Tech  Share  on Facebook (54)  Share  on Twitter (273) Bryan Clark 
+                            is a reporter from San Diego, CA.
+                            Happy to hear your thoughts
+                on  bryan@thenextweb.com  or
+                 @bryanclark  on Twitter.
+                     
+            TNW's West Coast reporter covering all the comings and goings in the SoCal tech scene and elsewhere. Connect via  Twitter ,  Facebook  or  Instagram.         Contact  Mail  Tweet Location 
+                    San Diego, CA                 Posts 
+                    1084                 Posts / mo. 
+                    58.01                   All posts by Bryan > The latest articles around Google Google launches its own festival to bring together music and technology Mix A tale of tech giants: How Philips competes with the likes of Google to reinvent an entire industry Melissa Thompson Google Play is adding support for introductory discounts on Android app subscriptions Abhimanyu Ghoshal Shh. Here's some distraction 7 beautifully designed examples of fine art in fintech TNW with ABNAMRO This baby stealing its parents' phone is absolutely terrifying Juan Buis This iPhone still works after a year on the bottom of an icy lake Juan Buis Twitter suspended CEO Jack Dorsey's account by mistake Abhimanyu Ghoshal These omnidirectional conveyor belts are a total trip Juan Buis You can now learn the basics of coding with Disney's Moana Matthew Hughes Comments Recommended 
+				A tale of tech giants: How Philips competes with the likes of Google to reinvent an entire industry			 Melissa Thompson Most popular 1 
+				This may be the world’s smallest camera drone, but it packs some serious flying power			 TNW Deals 2 
+				CSSReference.io is a gorgeous visual guide to CSS			 Matthew Hughes 3 
+				4 Cyber Monday tech deals you won’t want to miss			 TNW Deals 4 
+				Watch the OnePlus 3T get unboxed in a fighter jet for some reason			 Juan Buis 5 
+				Samsung shareholders look to split up the company after disastrous 2016			 Matthew Hughes Never miss out Stay tuned with our weekly recap of what’s hot & cool by our CEO  Boris . T h a n k   y o u ! Do it 
+        Join over 260,000 subscribers!
+     
+			Who's Hiring
+			 Add your company  ABN AMRO  
+					Reinventing the world of banking
+				  Philips  
+					Embrace the unexpected
+				  Facebook  
+					Build and make an impact
+				  Uber  
+					Work that moves you
+				  Amazon  
+					We are a company of pioneers
+				 Latest 
+				Researchers may have uncovered an algorithm that explains intelligence			 Bryan Clark 
+				AT&T launches DirecTV Now service with 120+ channels on Nov 30			 Napier Lopez 
+				Instagram will now alert you if someone screenshots your temporary direct messages			 Napier Lopez 
+				Fllike wants to be the Yelp of airlines			 Matthew Hughes 
+				To think like humans, researchers are teaching robots to dream			 Bryan Clark 
+				'DroneGun' takes down rogue aircraft from over a mile away			 Bryan Clark 
+				Does your domain have baggage? Check before you commit			 .ME 
+				How MAG created the ‘Good Times Factory’ and reached over 100 million players			 Arno Nijhof 
+				CNN has bought Casey Neistat's Beme video sharing app			 Matthew Hughes 
+				Getting terrible battery life on iOS 10.1.1? You're not the only one			 Juan Buis 
+				Facebook tries to connect all of India (again) with Express Wifi			 Napier Lopez 
+				Samsung shareholders look to split up the company after disastrous 2016			 Matthew Hughes 
+				No.			 Boris Veldhuijzen van Zanten 
+				The hacked San Francisco public transport is a reminder our systems aren’t perfect			 Juan Buis 
+				Lithuania: Up-and-coming startup ecosystem with talent and ideas			 Andrii Degeler @mattcutts The objective is not to make your links appear natural. The objective is that your links are natural.  Share Upcoming Events CES Jan 5, 2017 SXSW Mar 10, 2017 TNW Conference May 18, 2017 Popular Companies Amazon eBay Facebook Google Yahoo Trending Topics iPhone MacBook Playstation Samsung Galaxy YouTube Events About Team Advertise Contribute Jobs Contact 
+                            © 2006–2016 The Next Web B.V.
+                         Made with  ♥  in Amsterdam. 
+                            Powered by
+                             Stay tuned 
+                Treat yourself
+             
+                Sit back and let the hottest tech news come to you by the magic of electronic mail.
+             T h a n k   y o u ! Sign up 
+                Prefer to get the news as it happens? Follow us on social media.
+             1.65M  followers
+                         763K  likes
+                         Help us out 
+                Who are you?
+             
+                Got two minutes to spare? We'd love to know a bit more about our readers. Start! 
+                All data collected in the survey is anonymous.
+             ↑ ↓  Navigate up/down
+         Enter  Go to article
+         /  Search new term
+         Esc  Close search
+          video ads 
