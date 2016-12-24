@@ -18,7 +18,17 @@ To run, you'll need `key.json` which this repository does not include. The forma
 }
 ````
 
-I referred http://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search. If there can be more simple or easier way to do this, please lighten me up.
+I referred http://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search. 
+
+````
+pip install google-api-python-client
+pip install html2text
+````
+
+
+
+
+If there can be more simple or easier way to do this, please lighten me up.
 
 ### example
 ** This is still during construction.
