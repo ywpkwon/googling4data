@@ -78,27 +78,30 @@ def google_keyword2str(keyword, npages=1):
     report['nRetrieved'] = len(results)
 
     # Extract texts.
-    print("writing text..")
+    # print("writing text..")
     texts = []; errored_url = []
     for i, r in enumerate(results):
         url = r['link'] 
-        print(r['title'].encode('utf-8').decode('ascii','ignore'))
+        # print(r['title'].encode('utf-8').decode('ascii','ignore'))
         print('---- '+ url)
         try:
             text = extract_text_url(url)
             texts += text + " "
         except:
-            errored_url += url
+            errored_url.append(url)
             print('---- error!')
+        print('%d pages extracted: %d letters so far.' % (i, len(texts)))
 
     report = dict()
     report['keyword'] = keyword
+    report['retrieved'] = results
     report['nRetrieved'] = len(results)
     report['nErrored'] = len(errored_url)
     report['ErroredURL'] = errored_url
 
+
     print("** %d retrieved with %d errors." % (report['nRetrieved'], report['nErrored']))
-    return texts
+    return texts, report
 
 if __name__ == '__main__':
     
@@ -106,15 +109,20 @@ if __name__ == '__main__':
     # retrieved_strs = [extract_text_url(url)]
     # quit()
 
-    # Example of google with a keywords.
-    keywords = ['autonomous car']
-    npages = 1  # number of pages. each page has 10 web links of googling.
+    # Example of googling a list of keywords.
+    keywords = ['autonomous car', 'autonomous car innovation']
+    npages = 10  # number of pages. each page has 10 web links of googling.
 
     for keyword in keywords:
-        retrieved_strs = google_keyword2str(keyword, npages)
-        fname = keyword + ".txt"
-        with open(fname, "w", encoding="utf-8") as ofile:
+        retrieved_strs, report = google_keyword2str(keyword, npages)
+        
+        jsonname = keyword + ".json"
+        txtname = keyword + ".txt"
+        with open(jsonname, "w") as jf: json.dump(report, jf)
+        with open(txtname, "w", encoding="utf-8") as ofile:
             for s in retrieved_strs: ofile.write(s)
+
+    # 
 
 
 
