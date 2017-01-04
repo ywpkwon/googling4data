@@ -4,17 +4,13 @@ from googleapiclient.discovery import build
 from bs4 import BeautifulSoup
 import urllib
 import html2text
-import re
 import json
-import pprint
 from http.cookiejar import CookieJar
-import markdown2
 
 # def visible(element):
 #     if element.parent.name in ['style', 'script', '[document]', 'head', 'title']: return False
 #     # text = str(element.encode('utf-8')).strip()
 #     text = str(element).strip()
-
 #     if re.match('<!--.*-->', text): return False
 #     elif text in ['\n', '']: return False
 #     return True
@@ -110,7 +106,7 @@ if __name__ == '__main__':
     # quit()
 
     # Example of googling a list of keywords.
-    keywords = ['autonomous car', 'autonomous car innovation']
+    keywords = ['self driving', 'smart car']
     npages = 10  # number of pages. each page has 10 web links of googling.
 
     for keyword in keywords:
@@ -122,7 +118,8 @@ if __name__ == '__main__':
         with open(txtname, "w", encoding="utf-8") as ofile:
             for s in retrieved_strs: ofile.write(s)
 
-    # 
+
+
 
 
 
